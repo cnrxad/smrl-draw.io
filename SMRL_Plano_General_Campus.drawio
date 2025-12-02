@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.2.2">
   <diagram name="Página-1" id="GQ5UYehMx8SIMtQKcVQm">
-    <mxGraphModel dx="2593" dy="198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="light-dark(#ffffff, #ffffff)" math="0" shadow="0">
+    <mxGraphModel dx="1765" dy="-256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="light-dark(#ffffff, #ffffff)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,9 +93,6 @@
             <mxPoint x="1464" y="1281" as="sourcePoint" />
             <mxPoint x="1599" y="1281" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VWe6LZMWmFa_JLi9V6Kw-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="solo poner principal" vertex="1">
-          <mxGeometry height="30" width="60" x="694.5" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="jm9kOhqFACirTNj1LXfP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#ffffff, #ededed);fillColor=default;fillStyle=solid;strokeWidth=19;gradientColor=none;resizeWidth=0;direction=south;rotation=90;" value="" vertex="1">
           <mxGeometry height="2" width="39" x="1310" y="1569" as="geometry" />

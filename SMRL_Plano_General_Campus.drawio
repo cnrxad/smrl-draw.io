@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.2.4">
   <diagram name="Página-1" id="GQ5UYehMx8SIMtQKcVQm">
-    <mxGraphModel dx="1188" dy="-567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="light-dark(#ffffff, #ffffff)" math="0" shadow="0">
+    <mxGraphModel dx="3169" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="light-dark(#ffffff, #ffffff)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,13 +181,13 @@
         <mxCell id="DhAQkbzPLpPNJGMPUgym-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FF66FF,#FF66FF);strokeColor=none;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="40" y="1290" as="geometry" />
         </mxCell>
-        <mxCell id="DhAQkbzPLpPNJGMPUgym-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#66FF66,#FF66FF);strokeColor=none;" value="" vertex="1">
+        <mxCell id="DhAQkbzPLpPNJGMPUgym-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#3399FF,#3399FF);strokeColor=none;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="40" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="DhAQkbzPLpPNJGMPUgym-5" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Fibra óptica&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="70" y="1285" as="geometry" />
         </mxCell>
-        <mxCell id="DhAQkbzPLpPNJGMPUgym-6" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Acometida&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="DhAQkbzPLpPNJGMPUgym-6" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Par trenzado&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="70" y="1315" as="geometry" />
         </mxCell>
         <mxCell id="DhAQkbzPLpPNJGMPUgym-7" edge="1" parent="1" source="mmG598XLxuveT7CiYHOz-14" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#FF66FF,#FF66FF);strokeWidth=2;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" value="">
@@ -260,7 +260,7 @@
           <mxGeometry height="30" width="80" x="369" y="2270" as="geometry" />
         </mxCell>
         <mxCell id="IW0XBESBvhR3QfUn0uB--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="1200" width="1220" y="1200" as="geometry" />
+          <mxGeometry height="1200" width="1920" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="eqojyryvwEm4HTxYtqzB-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#FF66FF,#FF66FF);endSize=6;startSize=6;sourcePerimeterSpacing=0;strokeWidth=2;flowAnimation=0;shadow=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -312,6 +312,12 @@
             <mxPoint x="1321" y="1439" as="sourcePoint" />
             <mxPoint x="1321" y="1281" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eqojyryvwEm4HTxYtqzB-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#66FF66,#FF66FF);strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="40" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="eqojyryvwEm4HTxYtqzB-9" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Acometida&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="70" y="1345" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

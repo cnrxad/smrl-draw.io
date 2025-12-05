@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.2.1">
   <diagram name="Página-1" id="OO7pGzXl2H_5ZWA31KwW">
-    <mxGraphModel dx="2593" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="800" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="800" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1598,7 +1598,7 @@
           <mxGeometry height="3" width="3" x="28" y="2.25" as="geometry" />
         </mxCell>
         <mxCell id="RSm26t59awfihQ-jx73y-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Conectores RJ45 con canaletas y rosetas&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="870" y="1478" as="geometry" />
+          <mxGeometry height="30" width="300" x="790" y="1478" as="geometry" />
         </mxCell>
         <mxCell id="RSm26t59awfihQ-jx73y-111" edge="1" parent="1" style="endArrow=openThin;html=1;rounded=1;endFill=0;endSize=5;startSize=2;targetPerimeterSpacing=0;strokeWidth=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">

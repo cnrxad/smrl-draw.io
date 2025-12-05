@@ -1682,7 +1682,7 @@
           <mxGeometry height="29.5" width="63" x="644" y="2242" as="geometry" />
         </mxCell>
         <mxCell id="3Hfx0VgweJZLAPuc-njm-307" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;flipH=1;size=11.25;fillColor=#F2F2F2;" value="" vertex="1">
-          <mxGeometry height="11.87" width="9" x="695.19" y="2260.82" as="geometry" />
+          <mxGeometry height="11.87" width="17.37" x="691" y="2256.64" as="geometry" />
         </mxCell>
         <mxCell id="3Hfx0VgweJZLAPuc-njm-310" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=40;direction=east;flipV=0;flipH=1;fillColor=default;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="8" width="13.32" x="692" y="2254" as="geometry" />
